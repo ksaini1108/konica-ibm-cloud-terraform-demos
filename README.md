@@ -10,6 +10,7 @@ This repository contains Terraform configurations and reusable modules for provi
 
 Output of above :
 
-<img width="1237" alt="Screenshot 2025-06-29 at 3 08 18 PM" src="https://github.com/user-attachments/assets/b3cce579-e15e-4bf6-9804-72ff48b97632" />
+<img width="1728" alt="Screenshot 2025-06-29 at 3 19 13 PM" src="https://github.com/user-attachments/assets/8907371a-ea95-45a7-b815-b8fbb884d22a" />
+
 
 
